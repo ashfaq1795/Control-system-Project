@@ -1,3 +1,4 @@
+# Control-system-Project
 This is my semester project of control system subject 7th semester in university of engineering and technology, Peshawar. 
 In this project given tasks were to perform.
 
@@ -24,4 +25,4 @@ Then I designed PID controller for 4 test signals separately (step, impulse, ram
 After that I calculated the steady-state error for each signal. steady state error is the difference between the final value of system response and original signal.
 Finally, I designed the tracking controller for 5u(t) and 5ut(t). Tracking controller is a controller used for matching system response and input signal.
 
-# Control-system-Project
+
