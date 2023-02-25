@@ -1,4 +1,4 @@
-This is my semester project of control system subject 7th semester in universtiy of engineering and technology, Peshawar. 
+This is my semester project of control system subject 7th semester in university of engineering and technology, Peshawar. 
 In this project given tasks were to perform.
 
 _________________________________________________________________________________________________________________________________________
@@ -19,9 +19,9 @@ D=[0]   <br>
 
 First of all I checked the stability of the system using 5 different techniques (stability_checking.m).
 Then I checked controllability and observerability test (controllability_observerability_test.m).
-As the system is stable so I didn't design any controller and showed all responeses without using any controller.
-Then I designed PID controller for 4 test signals separatly (step, impulse, ramp, Parabolla) and showed the responses.
-After that I calculated the steady-state error for each singal. steady state error is the difference between the final value of system response and original signal.
-Finally I designed the tracking controller for 5u(t) and 5ut(t). Tracking controller is a controller used for matching system response and input signal.
+As the system is stable so I didn't design any controller and showed all responses without using any controller.
+Then I designed PID controller for 4 test signals separately (step, impulse, ramp, Parabola) and showed the responses.
+After that I calculated the steady-state error for each signal. steady state error is the difference between the final value of system response and original signal.
+Finally, I designed the tracking controller for 5u(t) and 5ut(t). Tracking controller is a controller used for matching system response and input signal.
 
 # Control-system-Project
